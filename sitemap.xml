@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/wp-content/plugins/squirrly-seo/view/assets/css/sitemapindex.xsl"?>
+<!-- generated-on="2026-05-01T18:43:41+00:00" -->
+<!-- generator="Squirrly SEO Sitemap" -->
+<!-- generator-url="https://wordpress.org/plugins/squirrly-seo/" -->
+
+<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+	<loc>https://pistilli.com/sitemap-home.xml</loc>
+	<lastmod>2024-11-20T21:16:01+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+	<loc>https://pistilli.com/sitemap-pages.xml</loc>
+	<lastmod>2024-11-20T21:16:01+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+	<loc>https://pistilli.com/sitemap-custom-posts.xml?type=property</loc>
+	<lastmod>2024-11-20T21:16:01+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
